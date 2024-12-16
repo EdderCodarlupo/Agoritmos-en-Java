@@ -1,4 +1,4 @@
-package Secuencial.igu;
+package com.secuencial.igu;
 
 public class Aplicacion01 extends javax.swing.JFrame {
 

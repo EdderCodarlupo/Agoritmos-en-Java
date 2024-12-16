@@ -9,7 +9,6 @@ import java.util.Scanner;
  * SUMA, RESTA, MULTIPLICACIÓN, DIVISIÓN. RESTO, POTENCIA
  */
 
-    
 public class Aplicacion01 {
     
     public static void main(String[] args) {

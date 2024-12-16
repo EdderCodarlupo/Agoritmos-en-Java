@@ -1,8 +1,8 @@
-package algoritmosjava;
+package com.main;
 
-import Secuencial.igu.Aplicacion01;
+import com.secuencial.igu.Aplicacion01;
 
-public class AlgoritmosJava {
+public class Main {
 
     public static void main(String[] args) {
         Aplicacion01 aplicacion01 = new Aplicacion01();
